@@ -6,7 +6,7 @@ pip3 install requests
 ```
 # 使用方法：
 ```bash
-python3 mm131_spider_threads.py
+python3 base_spider_threads.py
 ```
 # 关于作者
 网站：https://eqblog.com
